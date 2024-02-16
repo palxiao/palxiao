@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![](https://img.shields.io/badge/掘金-茶无味的一天-blue.svg)](https://juejin.cn/user/2682464103060541/posts) 
+
+[![Palxiao's github stats](https://github-readme-stats.vercel.app/api?username=palxiao)](https://github.com/anuraghazra/github-readme-stats)
