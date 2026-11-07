@@ -5,5 +5,3 @@
 如果你有编辑器方向的产品想法，或手里有设计资源、渠道想找技术合作，欢迎来聊。
 
 [![](https://img.shields.io/badge/公众号-品味前端-green.svg)](https://m.palxp.cn/wechat.png) [![](https://img.shields.io/badge/掘金-茶无味的一天-blue.svg)](https://juejin.cn/user/2682464103060541/posts) 
-
-[![Palxiao's github stats](https://github-readme-stats.vercel.app/api?username=palxiao)](https://github.com/anuraghazra/github-readme-stats)
